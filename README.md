@@ -1,2 +1,2 @@
 # aistory-app
-for generating the dtiry using ai
+for generating the directory using ai
